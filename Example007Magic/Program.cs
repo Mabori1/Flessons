@@ -48,5 +48,7 @@ internal partial class Program
         Console.WriteLine("+");
         count++;
         }
+        Console.ReadKey();
     }
+    
 }
